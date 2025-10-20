@@ -1,0 +1,2268 @@
+[
+  {
+    "source": "paddle",
+    "text": "See back .of receipt for your_chance",
+    "bbox": [
+      171,
+      3,
+      554,
+      32
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "to w1n $1000 ID #7N808YHTK5",
+    "bbox": [
+      173,
+      22,
+      491,
+      44
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "Walmart",
+    "bbox": [
+      298,
+      44,
+      503,
+      81
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "740-657-1341M9r:STEPHEN P0PE",
+    "bbox": [
+      220,
+      87,
+      536,
+      102
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "8659 COLUMBUS PIKE",
+    "bbox": [
+      282,
+      101,
+      484,
+      122
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "LEWIS CENTER OH 43035",
+    "bbox": [
+      260,
+      118,
+      495,
+      139
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "ST# 02725 0P# 001984TE#67TR# 03531",
+    "bbox": [
+      171,
+      133,
+      580,
+      159
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "SPECIAL ORDER ITEMS FOLLOW",
+    "bbox": [
+      215,
+      151,
+      552,
+      175
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "ORDERNUM3ER48011341149",
+    "bbox": [
+      171,
+      172,
+      443,
+      195
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "PRODUCT SERIAL # SDNQZ2TOJKXKN",
+    "bbox": [
+      171,
+      189,
+      507,
+      216
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "019019877640",
+    "bbox": [
+      316,
+      209,
+      454,
+      229
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "0.00T",
+    "bbox": [
+      528,
+      207,
+      596,
+      225
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "XR64GB",
+    "bbox": [
+      170,
+      214,
+      252,
+      235
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "PLEASE SEIE CONTRACT DOCUMENTS FOR",
+    "bbox": [
+      170,
+      225,
+      541,
+      254
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "PURCHASE PRICE & SALES TAX DETAILS",
+    "bbox": [
+      171,
+      244,
+      551,
+      273
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "SIM CARD",
+    "bbox": [
+      170,
+      271,
+      262,
+      294
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "084016800477",
+    "bbox": [
+      316,
+      265,
+      452,
+      288
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "0.00T",
+    "bbox": [
+      527,
+      262,
+      593,
+      283
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "SPECIAL ORDER ITEMS COMPLETE*",
+    "bbox": [
+      202,
+      280,
+      563,
+      312
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "SUBTOTAL",
+    "bbox": [
+      371,
+      304,
+      459,
+      326
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "0.00",
+    "bbox": [
+      523,
+      298,
+      572,
+      321
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "TAX 1",
+    "bbox": [
+      271,
+      326,
+      332,
+      349
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "7.000%",
+    "bbox": [
+      359,
+      323,
+      442,
+      345
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "45.43",
+    "bbox": [
+      515,
+      320,
+      572,
+      339
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "TOTAL",
+    "bbox": [
+      405,
+      342,
+      457,
+      362
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "45.43",
+    "bbox": [
+      514,
+      337,
+      571,
+      360
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "DISCV TEND",
+    "bbox": [
+      347,
+      360,
+      461,
+      382
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "45.43",
+    "bbox": [
+      513,
+      357,
+      569,
+      377
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "Discover Credit *   3875I1",
+    "bbox": [
+      168,
+      374,
+      590,
+      410
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "APPR0VAL #03047R",
+    "bbox": [
+      169,
+      402,
+      359,
+      427
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "REF#933400185836",
+    "bbox": [
+      169,
+      420,
+      369,
+      446
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "AID A0000001523010",
+    "bbox": [
+      169,
+      439,
+      369,
+      465
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "TC 7B2944019040DF8F",
+    "bbox": [
+      169,
+      457,
+      378,
+      483
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "TERMINAL #SC010548",
+    "bbox": [
+      170,
+      476,
+      379,
+      502
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "NO SIGNATURE REQUIRED",
+    "bbox": [
+      169,
+      493,
+      412,
+      521
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "11/30/19",
+    "bbox": [
+      255,
+      513,
+      346,
+      536
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "13:56:52",
+    "bbox": [
+      398,
+      507,
+      489,
+      530
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "CHANGE DUE",
+    "bbox": [
+      341,
+      528,
+      455,
+      551
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "0.00",
+    "bbox": [
+      518,
+      521,
+      567,
+      543
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "#ITEMS SOLD1",
+    "bbox": [
+      298,
+      546,
+      454,
+      570
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "TC#41114003 00538021.9239",
+    "bbox": [
+      223,
+      561,
+      532,
+      590
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "Low Prices Yau Can Trust.Every Day",
+    "bbox": [
+      178,
+      629,
+      565,
+      662
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "11/30/19",
+    "bbox": [
+      254,
+      655,
+      345,
+      677
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "13:56:52",
+    "bbox": [
+      394,
+      649,
+      487,
+      671
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "CUSTOMER COPY*",
+    "bbox": [
+      265,
+      669,
+      478,
+      695
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": " RETURN & EXCHANGE POLICY ",
+    "bbox": [
+      167,
+      682,
+      584,
+      716
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "Posteaid Cell Phones may be returned",
+    "bbox": [
+      176,
+      701,
+      575,
+      736
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "for refund or exchanse with receipt",
+    "bbox": [
+      178,
+      722,
+      561,
+      753
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "WITHIN 14 DAYS.",
+    "bbox": [
+      274,
+      743,
+      441,
+      768
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "XXXXXXXXXKXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "bbox": [
+      167,
+      757,
+      583,
+      790
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "Scan with Walmart app to save receipts",
+    "bbox": [
+      167,
+      775,
+      583,
+      809
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "Scanned with CamScanner",
+    "bbox": [
+      480,
+      991,
+      725,
+      1006
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "ABOUT OUR PRODUCT",
+    "bbox": [
+      135,
+      504,
+      288,
+      514
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "DIRECTIONS",
+    "bbox": [
+      712,
+      502,
+      816,
+      517
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing",
+    "bbox": [
+      100,
+      524,
+      322,
+      539
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "Lorem ipsum dolor sit amet consectetuer ascing",
+    "bbox": [
+      654,
+      526,
+      872,
+      539
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "sed diam nonummy nibh euismod tincidunt.",
+    "bbox": [
+      118,
+      540,
+      305,
+      553
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "LOGOTYPE",
+    "bbox": [
+      477,
+      541,
+      512,
+      552
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "elit, sed diam nonummy nibh mod unt ut laoreet",
+    "bbox": [
+      654,
+      543,
+      872,
+      556
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "Lorem dolor dipiscing diam.",
+    "bbox": [
+      151,
+      554,
+      272,
+      568
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "dolore magna quam erat volutpat. orem ipsum",
+    "bbox": [
+      654,
+      560,
+      873,
+      575
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "100%PRODUCT",
+    "bbox": [
+      453,
+      571,
+      534,
+      586
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing",
+    "bbox": [
+      101,
+      583,
+      321,
+      598
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "NAME",
+    "bbox": [
+      451,
+      584,
+      537,
+      628
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "dolor sit amet tetuer adipiscing. Sed diam ipsum",
+    "bbox": [
+      655,
+      579,
+      873,
+      592
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "diam nonummy nibh euismod tincidunt",
+    "bbox": [
+      127,
+      598,
+      297,
+      611
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "dolor nonummy.",
+    "bbox": [
+      726,
+      595,
+      801,
+      613
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "YOUR SIMPLE TEXT ONLY",
+    "bbox": [
+      135,
+      621,
+      286,
+      634
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "TEXT HERE",
+    "bbox": [
+      453,
+      631,
+      535,
+      644
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "INGREDIENTS",
+    "bbox": [
+      705,
+      637,
+      822,
+      652
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "Lorem ipsum dolor sit amet consectetuer adipiscing",
+    "bbox": [
+      101,
+      655,
+      321,
+      671
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "Lorem ipsum dolor sit amet, consectetuer ascing",
+    "bbox": [
+      657,
+      662,
+      871,
+      675
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "diam nonummy nibh tincidunt.",
+    "bbox": [
+      145,
+      672,
+      277,
+      685
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "FLAVER&",
+    "bbox": [
+      469,
+      680,
+      519,
+      691
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "elit, sed diam nonummy nibh mod unt ut laoreet",
+    "bbox": [
+      658,
+      681,
+      870,
+      691
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "Marketed By:",
+    "bbox": [
+      101,
+      701,
+      167,
+      719
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "PRODUCT",
+    "bbox": [
+      469,
+      692,
+      519,
+      703
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "SAMPLE TEXT",
+    "bbox": [
+      456,
+      706,
+      533,
+      717
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "Your Compasy Name",
+    "bbox": [
+      103,
+      719,
+      177,
+      729
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "dolor sit amet tetuer adipiscing Sed ipsum dolor",
+    "bbox": [
+      656,
+      714,
+      869,
+      727
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "Lic No.17840825785",
+    "bbox": [
+      103,
+      738,
+      182,
+      748
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "250m1/8.45oz.",
+    "bbox": [
+      446,
+      740,
+      540,
+      755
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "diam nonummy",
+    "bbox": [
+      727,
+      732,
+      799,
+      745
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "Porduct simple text here.",
+    "bbox": [
+      102,
+      747,
+      196,
+      760
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "Q",
+    "bbox": [
+      262,
+      744,
+      305,
+      766
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "KADE IN COUNTRY",
+    "bbox": [
+      464,
+      754,
+      525,
+      766
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "www.urbrandname.com",
+    "bbox": [
+      685,
+      773,
+      839,
+      786
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "Here",
+    "bbox": [
+      224,
+      790,
+      246,
+      797
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "MADE IN COUNTRY",
+    "bbox": [
+      724,
+      790,
+      803,
+      800
+    ],
+    "image_filename": "Product_Packaging.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "GE",
+    "bbox": [
+      1536,
+      563,
+      1608,
+      639
+    ],
+    "image_filename": "City_Scene.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "TEXACO",
+    "bbox": [
+      1239,
+      589,
+      1515,
+      678
+    ],
+    "image_filename": "City_Scene.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "CAI",
+    "bbox": [
+      1552,
+      628,
+      1621,
+      688
+    ],
+    "image_filename": "City_Scene.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "T",
+    "bbox": [
+      1360,
+      686,
+      1392,
+      710
+    ],
+    "image_filename": "City_Scene.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "OFFICF",
+    "bbox": [
+      1539,
+      686,
+      1624,
+      724
+    ],
+    "image_filename": "City_Scene.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "Budweiser",
+    "bbox": [
+      987,
+      702,
+      1221,
+      748
+    ],
+    "image_filename": "City_Scene.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "FREE!",
+    "bbox": [
+      151,
+      633,
+      819,
+      984
+    ],
+    "image_filename": "City_Scene.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "KING OF BEER",
+    "bbox": [
+      1019,
+      787,
+      1155,
+      806
+    ],
+    "image_filename": "City_Scene.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "ales C",
+    "bbox": [
+      1691,
+      874,
+      1744,
+      896
+    ],
+    "image_filename": "City_Scene.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "Free",
+    "bbox": [
+      219,
+      948,
+      813,
+      1231
+    ],
+    "image_filename": "City_Scene.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "Bud",
+    "bbox": [
+      1448,
+      1161,
+      1531,
+      1191
+    ],
+    "image_filename": "City_Scene.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "Ren",
+    "bbox": [
+      1445,
+      1202,
+      1512,
+      1221
+    ],
+    "image_filename": "City_Scene.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "mug",
+    "bbox": [
+      268,
+      1154,
+      817,
+      1402
+    ],
+    "image_filename": "City_Scene.jpg"
+  },
+  {
+    "source": "paddle",
+    "text": "with to gallons.",
+    "bbox": [
+      424,
+      1349,
+      746,
+      1464
+    ],
+    "image_filename": "City_Scene.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  },
+  {
+    "source": "trocr",
+    "text": "",
+    "bbox": [
+      171,
+      3,
+      362,
+      17
+    ],
+    "image_filename": "Receipt.jpg"
+  }
+]

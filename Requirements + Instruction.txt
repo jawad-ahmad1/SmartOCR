@@ -1,0 +1,24 @@
+# OCR
+paddleocr==2.6.1
+transformers==4.43.3
+torch==2.2.0
+torchaudio==2.2.0
+torchvision==2.2.0
+
+# Data handling
+pandas==2.2.3
+numpy==1.26.4
+scipy==1.13.0
+Pillow==11.3.0
+
+# Visualization
+matplotlib==3.7.2
+
+# Optional, for GitHub notebook rendering & saving
+ipython==8.16.2
+jupyter==1.0.0
+
+
+To check out the fine tuned model visit my kaggle profile at the below link:
+
+"https://www.kaggle.com/code/jawadx/02-trocr-detector/output"
