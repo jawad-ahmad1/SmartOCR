@@ -59,7 +59,6 @@ pip install -r requirements + instrucitons.txt
 | `Comparison_Visuals.ipynb` | Merge outputs and visualize results |
 
 ## 📌 Notes & Findings
-TrOCR Performance
 TrOCR can be less reliable, especially on small datasets or models that have been fine-tuned on limited data.
 
 ## Visualization Convention
